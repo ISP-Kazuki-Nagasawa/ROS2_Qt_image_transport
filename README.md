@@ -3,7 +3,8 @@ ROS2 Qt image transport sample
 ROS2 & Qt Quick を用いてUSBカメラからの映像を送受信、表示するサンプル。  
   
 詳細は技ラボを参照のこと。  
-( TODO: 技ラボ当該記事URL )
+[ROS2 + Qt Quickを使ったシステム開発](http://wazalabo.com/ros2_and_qtquick.html)
+
 
 動作環境
 ----------
